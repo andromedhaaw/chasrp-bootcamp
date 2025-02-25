@@ -1,0 +1,12 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\bin\Debug\net8.0\variableandpara.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\bin\Debug\net8.0\variableandpara.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\bin\Debug\net8.0\variableandpara.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\refint\variableandpara.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\variableandpara.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\variableandpara\obj\Debug\net8.0\ref\variableandpara.dll

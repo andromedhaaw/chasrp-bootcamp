@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\bin\Debug\net8.0\boolean.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\bin\Debug\net8.0\boolean.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\bin\Debug\net8.0\boolean.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\bin\Debug\net8.0\boolean.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\bin\Debug\net8.0\boolean.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\refint\boolean.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\boolean.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\boolean\obj\Debug\net8.0\ref\boolean.dll

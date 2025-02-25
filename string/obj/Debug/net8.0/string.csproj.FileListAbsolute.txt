@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\bin\Debug\net8.0\string.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\bin\Debug\net8.0\string.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\bin\Debug\net8.0\string.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\bin\Debug\net8.0\string.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\bin\Debug\net8.0\string.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\refint\string.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\string.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\string\obj\Debug\net8.0\ref\string.dll

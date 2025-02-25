@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\bin\Debug\net8.0\numerictype.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\bin\Debug\net8.0\numerictype.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\bin\Debug\net8.0\numerictype.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\bin\Debug\net8.0\numerictype.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\bin\Debug\net8.0\numerictype.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\refint\numerictype.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\numerictype.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\numerictype\obj\Debug\net8.0\ref\numerictype.dll
