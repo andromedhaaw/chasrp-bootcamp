@@ -5,6 +5,14 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EBE99F04-48C0-4863-9F8A-E9738556452E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{4DC99B0B-02B8-4D51-A9CB-889A9002827F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "andro", "andro\andro.csproj", "{B934E2D3-D1D9-4307-9776-F29F2189C65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace", "namespace\namespace.csproj", "{2532E8B9-B966-4F8E-AC1A-97A25D50379F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzbuz", "fizzbuz\fizzbuz.csproj", "{5DC74627-B154-4573-B939-571AA9C524AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,21 @@ Global
 		{EBE99F04-48C0-4863-9F8A-E9738556452E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE99F04-48C0-4863-9F8A-E9738556452E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE99F04-48C0-4863-9F8A-E9738556452E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC99B0B-02B8-4D51-A9CB-889A9002827F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC99B0B-02B8-4D51-A9CB-889A9002827F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC99B0B-02B8-4D51-A9CB-889A9002827F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC99B0B-02B8-4D51-A9CB-889A9002827F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B934E2D3-D1D9-4307-9776-F29F2189C65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B934E2D3-D1D9-4307-9776-F29F2189C65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B934E2D3-D1D9-4307-9776-F29F2189C65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B934E2D3-D1D9-4307-9776-F29F2189C65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2532E8B9-B966-4F8E-AC1A-97A25D50379F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2532E8B9-B966-4F8E-AC1A-97A25D50379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2532E8B9-B966-4F8E-AC1A-97A25D50379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2532E8B9-B966-4F8E-AC1A-97A25D50379F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC74627-B154-4573-B939-571AA9C524AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC74627-B154-4573-B939-571AA9C524AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC74627-B154-4573-B939-571AA9C524AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC74627-B154-4573-B939-571AA9C524AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

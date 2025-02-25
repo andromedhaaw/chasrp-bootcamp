@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\bin\Debug\net8.0\namespace.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\bin\Debug\net8.0\namespace.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\bin\Debug\net8.0\namespace.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\bin\Debug\net8.0\namespace.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\bin\Debug\net8.0\namespace.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\refint\namespace.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\namespace.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\namespace\obj\Debug\net8.0\ref\namespace.dll

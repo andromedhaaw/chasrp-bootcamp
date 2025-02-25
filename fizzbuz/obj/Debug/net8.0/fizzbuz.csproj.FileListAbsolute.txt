@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\bin\Debug\net8.0\fizzbuz.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\bin\Debug\net8.0\fizzbuz.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\bin\Debug\net8.0\fizzbuz.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\bin\Debug\net8.0\fizzbuz.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\bin\Debug\net8.0\fizzbuz.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\refint\fizzbuz.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\fizzbuz.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\fizzbuz\obj\Debug\net8.0\ref\fizzbuz.dll
