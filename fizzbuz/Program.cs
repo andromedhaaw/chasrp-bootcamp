@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-namespace fizzbuzz
+namespace foobar
 {
     class Program
     {
