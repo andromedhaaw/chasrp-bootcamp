@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\bin\Debug\net8.0\Expressionandoperator.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\bin\Debug\net8.0\Expressionandoperator.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\bin\Debug\net8.0\Expressionandoperator.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\bin\Debug\net8.0\Expressionandoperator.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\bin\Debug\net8.0\Expressionandoperator.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\refint\Expressionandoperator.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\Expressionandoperator.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\Expressionandoperator\obj\Debug\net8.0\ref\Expressionandoperator.dll

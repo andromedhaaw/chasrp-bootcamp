@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variableandpara", "variableandpara\variableandpara.csproj", "{9C5A6AB1-5617-4043-8E78-582FF90FB2CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressionandoperator", "Expressionandoperator\Expressionandoperator.csproj", "{70F84E7A-125C-4F32-A300-D3DADFF7816D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{9C5A6AB1-5617-4043-8E78-582FF90FB2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C5A6AB1-5617-4043-8E78-582FF90FB2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C5A6AB1-5617-4043-8E78-582FF90FB2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
