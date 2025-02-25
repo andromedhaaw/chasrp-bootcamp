@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace", "namespace\name
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzbuz", "fizzbuz\fizzbuz.csproj", "{5DC74627-B154-4573-B939-571AA9C524AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syntax", "syntax\syntax.csproj", "{F42B8A73-5EBF-4DC9-9D26-AE21B3B7E3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeBasic", "TypeBasic\TypeBasic.csproj", "{01E30FE8-FCA7-4568-B1BB-BBA0FCE8C29A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{5DC74627-B154-4573-B939-571AA9C524AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DC74627-B154-4573-B939-571AA9C524AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DC74627-B154-4573-B939-571AA9C524AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42B8A73-5EBF-4DC9-9D26-AE21B3B7E3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42B8A73-5EBF-4DC9-9D26-AE21B3B7E3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42B8A73-5EBF-4DC9-9D26-AE21B3B7E3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42B8A73-5EBF-4DC9-9D26-AE21B3B7E3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E30FE8-FCA7-4568-B1BB-BBA0FCE8C29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E30FE8-FCA7-4568-B1BB-BBA0FCE8C29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E30FE8-FCA7-4568-B1BB-BBA0FCE8C29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E30FE8-FCA7-4568-B1BB-BBA0FCE8C29A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

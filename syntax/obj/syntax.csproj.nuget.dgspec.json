@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\syntax\\syntax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\syntax\\syntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\ConsoleApp2\\ConsoleApp2.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\syntax\\syntax.csproj",
+        "projectName": "syntax",
+        "projectPath": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\syntax\\syntax.csproj",
         "packagesPath": "C:\\Users\\Batch 12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Batch 12\\Documents\\chasrp-bootcamp\\syntax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 12\\AppData\\Roaming\\NuGet\\NuGet.Config"

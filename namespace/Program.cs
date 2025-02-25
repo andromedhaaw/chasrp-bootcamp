@@ -3,9 +3,9 @@ namespace MyNamespace
 {
     class Myclass
     {
-        public static void Main(string[] args)
+        public void DisplayMessage()
         {
-            System.Console.WriteLine("hello World!");
+            System.Console.WriteLine("Hello from Nested Namespace!");
         }
     }
 }

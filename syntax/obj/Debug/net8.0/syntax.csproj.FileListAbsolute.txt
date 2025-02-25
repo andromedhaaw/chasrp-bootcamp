@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\bin\Debug\net8.0\syntax.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\bin\Debug\net8.0\syntax.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\bin\Debug\net8.0\syntax.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\bin\Debug\net8.0\syntax.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\bin\Debug\net8.0\syntax.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\refint\syntax.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\syntax.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\syntax\obj\Debug\net8.0\ref\syntax.dll

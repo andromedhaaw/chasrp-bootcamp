@@ -1,0 +1,15 @@
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.AssemblyInfoInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.AssemblyInfo.cs
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.csproj.CoreCompileInputs.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.sourcelink.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\bin\Debug\net8.0\TypeBasic.exe
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\bin\Debug\net8.0\TypeBasic.deps.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\bin\Debug\net8.0\TypeBasic.runtimeconfig.json
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\bin\Debug\net8.0\TypeBasic.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\bin\Debug\net8.0\TypeBasic.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\refint\TypeBasic.dll
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.pdb
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\TypeBasic.genruntimeconfig.cache
+C:\Users\Batch 12\Documents\chasrp-bootcamp\TypeBasic\obj\Debug\net8.0\ref\TypeBasic.dll
