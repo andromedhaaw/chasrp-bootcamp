@@ -18,6 +18,6 @@ class Program
 
         string a = "Kopi", b = "Teh";
         Swap(ref a, ref b);
-        Console.WriteLine($"{a}, {b}"); // Output: Teh, Kopi
+        Console.WriteLine($"{a}, {b}"); // Output: Teh, Kopi.
     }
 }
