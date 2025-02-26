@@ -1,12 +1,7 @@
-﻿class Mobil
+﻿// Kelas Induk (Parent Class)
+class Mobil
 {
-    public string merk;
-
-    // Constructor
-    public Mobil(string merk)
-    {
-        this.merk = merk;
-    }
+    public string merk = ""; // Inisialisasi dengan string kosong
 
     public void Nyalamesin()
     {
@@ -14,15 +9,10 @@
     }
 }
 
+// Kelas Turunan (Child Class)
 class MobilBalap : Mobil
 {
     public int kecepatan;
-
-    // Constructor untuk MobilBalap
-    public MobilBalap(string merk, int kecepatan) : base(merk)
-    {
-        this.kecepatan = kecepatan;
-    }
 
     public void GasPol()
     {
@@ -34,7 +24,9 @@ class Program
 {
     static void Main()
     {
-        MobilBalap ferrari = new MobilBalap("Ferrari", 300);
+        MobilBalap ferrari = new MobilBalap();
+        ferrari.merk = "Ferrari";  // Mengisi nilai merk
+        ferrari.kecepatan = 300;
         ferrari.Nyalamesin();
         ferrari.GasPol();
     }
