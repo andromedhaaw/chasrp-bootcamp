@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variableandpara", "variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressionandoperator", "Expressionandoperator\Expressionandoperator.csproj", "{70F84E7A-125C-4F32-A300-D3DADFF7816D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes", "classes\classes.csproj", "{459F2B2A-1BBB-47C1-A639-A8173F348419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F84E7A-125C-4F32-A300-D3DADFF7816D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459F2B2A-1BBB-47C1-A639-A8173F348419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459F2B2A-1BBB-47C1-A639-A8173F348419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459F2B2A-1BBB-47C1-A639-A8173F348419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459F2B2A-1BBB-47C1-A639-A8173F348419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
