@@ -154,7 +154,7 @@ class Program
 
         // Contoh penggunaan Object Type
         object obj = myCar; // Menyimpan objek Car dalam tipe object
-        Vehicle retrievedVehicle = (Vehicle)obj; // Unboxing kembali ke Vehicle
+        Vehicle retrievedVehicle = (Vehicle)obj; // Unboxing kembali ke Vehiclee
         Console.WriteLine($"Unboxed Vehicle Type: {retrievedVehicle.Type}");
     }
 }
