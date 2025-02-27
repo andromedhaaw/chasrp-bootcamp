@@ -1,28 +1,30 @@
-﻿using System;
-
-class Mahasiswa
+﻿class Mahasiswa
 {
-    //Field Private (tidak bisa diakses langsung dari luar class)
-    private string nama;
+    private string nama = string.Empty; // Initialized with a default value
     private int umur;
 
-    //Properti untuk mengakses nama
-    public string Nama{
+    // Constructor to initialize values
+    public Mahasiswa(string nama, int umur)
+    {
+        Nama = nama;
+        Umur = umur;
+    }
+
+    public string Nama
+    {
         get { return nama; }
         set { nama = value; }
     }
 
-    //properti dengan validasi untuk umur
-    public int Umur{
-        get { return umur;}
-        set 
+    public int Umur
+    {
+        get { return umur; }
+        set
         {
-            if (value > 0) // validasi umur tidak boleh negatif
+            if (value > 0)
                 umur = value;
             else
                 Console.WriteLine("Umur harus lebih dari 0!");
-            
-            
         }
     }
 }
@@ -31,10 +33,7 @@ class Program
 {
     static void Main()
     {
-        Mahasiswa mhs = new Mahasiswa();
-        mhs.Nama = "Wise";
-        mhs.Umur = 21;
-
+        Mahasiswa mhs = new Mahasiswa("Wise", 21);
         Console.WriteLine($"Nama: {mhs.Nama}, Umur: {mhs.Umur}");
     }
 }
