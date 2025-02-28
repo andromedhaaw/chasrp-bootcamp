@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - eventhandler", "day5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - trystatementandexceptions", "day5 - trystatementandexceptions\day5 - trystatementandexceptions.csproj", "{7C8C84F7-1968-4017-AE34-577A7DCD3C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - operatoroverloading", "day5 - operatoroverloading\day5 - operatoroverloading.csproj", "{3D43CCD6-3CD3-4361-B6F7-54E1494E1A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - EnumerationandIterators", "day5 - EnumerationandIterators\day5 - EnumerationandIterators.csproj", "{59BA4A3F-28D4-4616-A8E6-8209FFC78153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +208,13 @@ Global
 		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D43CCD6-3CD3-4361-B6F7-54E1494E1A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D43CCD6-3CD3-4361-B6F7-54E1494E1A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D43CCD6-3CD3-4361-B6F7-54E1494E1A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D43CCD6-3CD3-4361-B6F7-54E1494E1A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BA4A3F-28D4-4616-A8E6-8209FFC78153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BA4A3F-28D4-4616-A8E6-8209FFC78153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BA4A3F-28D4-4616-A8E6-8209FFC78153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BA4A3F-28D4-4616-A8E6-8209FFC78153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
