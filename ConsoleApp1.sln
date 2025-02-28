@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - delegates", "day5 - 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - eventhandler", "day5 - eventhandler\day5 - eventhandler.csproj", "{68199C6B-9193-4267-9CE6-A314D6A7E237}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - trystatementandexceptions", "day5 - trystatementandexceptions\day5 - trystatementandexceptions.csproj", "{7C8C84F7-1968-4017-AE34-577A7DCD3C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,5 +200,9 @@ Global
 		{68199C6B-9193-4267-9CE6-A314D6A7E237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68199C6B-9193-4267-9CE6-A314D6A7E237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68199C6B-9193-4267-9CE6-A314D6A7E237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8C84F7-1968-4017-AE34-577A7DCD3C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
