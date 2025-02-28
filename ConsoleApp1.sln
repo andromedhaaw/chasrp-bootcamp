@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4 - Inheritance", "day4 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4 - polymorphism", "day4 - polymorphism\day4 - polymorphism.csproj", "{E11DBCAE-55C6-4345-A9F6-018045DC954A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - nullablevaluetypes", "day5 - nullablevaluetypes\day5 - nullablevaluetypes.csproj", "{F00B7CA6-F53F-4CBE-BCCA-1FBDCCE503E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +176,9 @@ Global
 		{E11DBCAE-55C6-4345-A9F6-018045DC954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E11DBCAE-55C6-4345-A9F6-018045DC954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E11DBCAE-55C6-4345-A9F6-018045DC954A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00B7CA6-F53F-4CBE-BCCA-1FBDCCE503E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00B7CA6-F53F-4CBE-BCCA-1FBDCCE503E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00B7CA6-F53F-4CBE-BCCA-1FBDCCE503E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00B7CA6-F53F-4CBE-BCCA-1FBDCCE503E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
