@@ -402,5 +402,6 @@ FodyWeavers.xsd
 # File tidak perlu diunggah
 .vscode/
 AssemblyInfo.cs
+AssemblyInfoInputs.cache
 bin/
 obj/
