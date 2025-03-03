@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day5 - EnumerationandIterat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - calculator project", "day6 - calculator project\day6 - calculator project.csproj", "{7F2D0E4E-09F3-4007-89B0-F4E9B802EDBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - CsharpDemoapp", "day6 - CsharpDemoapp\day6 - CsharpDemoapp.csproj", "{D5446F8A-E48B-486B-8279-410A9CADFA4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{7F2D0E4E-09F3-4007-89B0-F4E9B802EDBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2D0E4E-09F3-4007-89B0-F4E9B802EDBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2D0E4E-09F3-4007-89B0-F4E9B802EDBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5446F8A-E48B-486B-8279-410A9CADFA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5446F8A-E48B-486B-8279-410A9CADFA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5446F8A-E48B-486B-8279-410A9CADFA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5446F8A-E48B-486B-8279-410A9CADFA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
