@@ -403,5 +403,6 @@ FodyWeavers.xsd
 .vscode/
 AssemblyInfo.cs
 AssemblyInfoInputs.cache
+cache/
 bin/
 obj/
