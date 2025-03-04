@@ -77,6 +77,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - CsharpDemoapp", "day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - simplebuah", "day6 - simplebuah\day6 - simplebuah.csproj", "{8CDCE6F7-8B3F-4FC0-BDAC-40A399940898}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - StringAndTextHandling", "day7 - StringAndTextHandling\day7 - StringAndTextHandling.csproj", "{D04A98A6-DBDE-4D6D-8A59-C2965121672F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - DatesAndTimes", "day6 - DatesAndTimes\day6 - DatesAndTimes.csproj", "{FBB78096-D704-4160-84DE-9A3577521CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - DateAndTimes", "day6 - DateAndTimes\day6 - DateAndTimes.csproj", "{52DAE636-7CCF-428D-827A-6B2B30FE597B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day6 - FormattingAndParsing", "day6 - FormattingAndParsing\day6 - FormattingAndParsing.csproj", "{10ABB40C-A963-4B37-ACC1-73F8AC89337C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - DateandTimes", "day7 - DateandTimes\day7 - DateandTimes.csproj", "{0144E4DE-C3F3-494B-BF77-F5447EC550A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingAndParsing", "FormattingAndParsing\FormattingAndParsing.csproj", "{38FE5237-5512-40BE-9F38-7456651B7E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - FormattingAndParsing", "day7 - FormattingAndParsing\day7 - FormattingAndParsing.csproj", "{92E0505B-839C-4152-B48C-A021D442AD43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,5 +248,33 @@ Global
 		{8CDCE6F7-8B3F-4FC0-BDAC-40A399940898}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CDCE6F7-8B3F-4FC0-BDAC-40A399940898}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CDCE6F7-8B3F-4FC0-BDAC-40A399940898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04A98A6-DBDE-4D6D-8A59-C2965121672F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04A98A6-DBDE-4D6D-8A59-C2965121672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04A98A6-DBDE-4D6D-8A59-C2965121672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04A98A6-DBDE-4D6D-8A59-C2965121672F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB78096-D704-4160-84DE-9A3577521CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB78096-D704-4160-84DE-9A3577521CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB78096-D704-4160-84DE-9A3577521CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB78096-D704-4160-84DE-9A3577521CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DAE636-7CCF-428D-827A-6B2B30FE597B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DAE636-7CCF-428D-827A-6B2B30FE597B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DAE636-7CCF-428D-827A-6B2B30FE597B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DAE636-7CCF-428D-827A-6B2B30FE597B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10ABB40C-A963-4B37-ACC1-73F8AC89337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ABB40C-A963-4B37-ACC1-73F8AC89337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ABB40C-A963-4B37-ACC1-73F8AC89337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ABB40C-A963-4B37-ACC1-73F8AC89337C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0144E4DE-C3F3-494B-BF77-F5447EC550A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0144E4DE-C3F3-494B-BF77-F5447EC550A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0144E4DE-C3F3-494B-BF77-F5447EC550A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0144E4DE-C3F3-494B-BF77-F5447EC550A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FE5237-5512-40BE-9F38-7456651B7E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FE5237-5512-40BE-9F38-7456651B7E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FE5237-5512-40BE-9F38-7456651B7E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FE5237-5512-40BE-9F38-7456651B7E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E0505B-839C-4152-B48C-A021D442AD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E0505B-839C-4152-B48C-A021D442AD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E0505B-839C-4152-B48C-A021D442AD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E0505B-839C-4152-B48C-A021D442AD43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
