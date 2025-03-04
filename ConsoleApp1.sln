@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - WorkingWithNumber", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - enums", "day7 - enums\day7 - enums.csproj", "{EA19AC78-4DE1-469A-A98A-694A6EBDFAAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - EqualityComparison", "day7 - EqualityComparison\day7 - EqualityComparison.csproj", "{ECEB81D1-1420-4601-BA24-6673982B8682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day7 - UtilityClasses", "day7 - UtilityClasses\day7 - UtilityClasses.csproj", "{399CC93D-377D-4FB3-BACA-5B36CE209015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -294,5 +298,13 @@ Global
 		{EA19AC78-4DE1-469A-A98A-694A6EBDFAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA19AC78-4DE1-469A-A98A-694A6EBDFAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA19AC78-4DE1-469A-A98A-694A6EBDFAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEB81D1-1420-4601-BA24-6673982B8682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEB81D1-1420-4601-BA24-6673982B8682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEB81D1-1420-4601-BA24-6673982B8682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEB81D1-1420-4601-BA24-6673982B8682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399CC93D-377D-4FB3-BACA-5B36CE209015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399CC93D-377D-4FB3-BACA-5B36CE209015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399CC93D-377D-4FB3-BACA-5B36CE209015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399CC93D-377D-4FB3-BACA-5B36CE209015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
