@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("namespace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d81360af44f868cce5eb749a731ab102b92ffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a42bd8b686fe88b5ce76dda30baaaab537073fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("namespace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("namespace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
