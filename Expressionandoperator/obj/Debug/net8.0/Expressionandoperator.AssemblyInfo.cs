@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Expressionandoperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1e4878b4e5cb8eab12cb38ecd6fd9aabdc2910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a436d552f4b44be2bfb644dc43211783089ec62e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Expressionandoperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Expressionandoperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
